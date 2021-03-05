@@ -2,13 +2,13 @@
 ## Phương pháp luận Nghiên cứu khoa học (course's english name)
 This repository is about doing team-working in CS519 course @UIT-VNU
 
-<!-- Members:  
+Members:  
 |ID         |Name               |Email                 |Role    |
 |-----------|-------------------|----------------------|--------|
 |18521182   |Thái Hoàng Nhân    |18521182@gm.uit.edu.vn|Leader  |
 |18520367   |Nguyễn Vương Thịnh |18520367@gm.uit.edu.vn|Member  |
-|18520440   |Võ Quốc An         |18520440@gm.uit.edu.vn|Member  | -->
-<!--  -->
+|18520440   |Võ Quốc An         |18520440@gm.uit.edu.vn|Member  | 
+
 # MEMBERS
 <div style="display:flex; width:100%">
         <div style="width:20%;margin: 0px auto">
