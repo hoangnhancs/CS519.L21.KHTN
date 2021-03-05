@@ -1,5 +1,3 @@
-# CS519.L21.KHTN
-## Phương pháp luận Nghiên cứu khoa học (course's english name)
 <p align="center">
   <a href="https://www.uit.edu.vn/"><img src="https://www.uit.edu.vn/sites/vi/files/banner.png"></a>
   <h1 align= "center"><strong>    CS519.L21.KHTN</strong> </h1>
