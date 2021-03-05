@@ -11,7 +11,7 @@ This repository is about doing team-working in CS519 course @UIT-VNU
 <!--  -->
 
 
-<p>For Contact</p>
+## For Contact
 <p>Thái Hoàng Nhân: 18521182@gm.uit.edu.vn or <a href="https://github.com/hoangnhancs">github</a> or <a href="https://www.facebook.com/profile.php?id=100027617961231">facebook</a></p>
 <p>Nguyễn Vương Thịnh: 18520367@gm.uit.edu.vn or <a href="https://github.com/ThinhNguyen209">github</a> or <a href="https://www.facebook.com/thinhvnuit">facebook</a></p>
 <p>Võ Quốc An: 18520440@gm.uit.edu.vn or <a href="https://github.com/anvq38">github</a> or <a href="https://www.facebook.com/anvq0812">facebook</a></p>
