@@ -36,5 +36,5 @@ This repository is about doing team-working in CS519 course @UIT-VNU
 
 # Woring flow 
 
-Mỗi thư mục sẽ được đặt tên là "Section" + X tương ứng với mỗi buổi học.   
+Mỗi thư mục sẽ được đặt tên là "Week" + X tương ứng với mỗi buổi học.   
 Tất cả những file liên quan tới buổi học hôm đó (chẳng hạn như bài tập, report, tóm tắt, tài liệu ,....) đều được đặt trong thư mục của từng buổi học.
