@@ -25,3 +25,7 @@ các tiêu chí survey (độ tuổi, giới tính, nghề nghiệp, vùng miề
 
 
 20 bài báo liên quan đến topic mình đang quan tâm
+các tiêu chí:
+thời gian
+hội nghị
+số trích dẫn.
